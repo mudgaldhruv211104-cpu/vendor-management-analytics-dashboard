@@ -4,7 +4,7 @@ A Power BI vendor management analytics dashboard designed to evaluate supplier p
 
 ## Dashboard Preview
 
-![Vendor Management Dashboard Image ,jpg](./Vendor%20Management%20Dashboard%20Image.jpeg)
+![Vendor Management Dashboard Image ,jpeg](./Vendor%20Management%20Dashboard%20Image.jpeg)
 
 ## Project Overview
 
