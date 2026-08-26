@@ -4,7 +4,7 @@ A Power BI vendor management analytics dashboard designed to evaluate supplier p
 
 ## Dashboard Preview
 
-![Vendor Management Dashboard Image](Vendor%20Management%20Dashboard%20Image.jpeg)
+![Vendor Management Dashboard](./Vendor%20Management%20Dashboard%20Image.jpeg)
 
 ## Project Overview
 
@@ -49,12 +49,36 @@ This dashboard provides a comprehensive view of vendor performance and quality m
 - Power BI
 - DAX
 - Data Visualization
-- Business & Vendor Analytics
+- Business Analytics
+- Vendor & Quality Analytics
 
 ## Project Files
 
-- **Dashboard:** `Vendor Management Dashboard Image.jpeg`
-- **Power BI File:** `Vendor Management.pbix`
+- **Dashboard Preview:** `Vendor Management Dashboard Image.jpeg`
+- **Power BI Dashboard:** `Vendor Management.pbix`
+
+## Dashboard Scope
+
+### Vendor Performance
+Comparison of vendor performance scores to identify stronger and weaker suppliers.
+
+### Delivery Performance
+Analysis of on-time versus late delivery rates and order fulfillment performance.
+
+### Quality Management
+Monitoring inspection pass rates, first-time acceptance, quality compliance, and defect rates.
+
+### Vendor Risk
+Evaluation of vendor risk scores to identify suppliers requiring closer monitoring.
+
+### Customer Complaints
+Comparison of customer complaint volumes across vendors.
+
+### Corrective Actions
+Tracking corrective action closure rates to evaluate issue-resolution performance.
+
+### Trend Analysis
+Monitoring weekly quality compliance trends to identify operational fluctuations.
 
 ## Purpose
 
